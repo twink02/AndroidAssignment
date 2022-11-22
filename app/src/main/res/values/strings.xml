@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="temperature">%1$s%2$s</string>
+    <string name="temperature_without_degree_symbol">%1$s C</string>
+    <string name="error">Something went wrong at our end!</string>
+    <string name="retry">Retry</string>
+</resources>
